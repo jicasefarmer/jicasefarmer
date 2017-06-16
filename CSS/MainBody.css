@@ -6,29 +6,33 @@ margin-left:auto;
 margin-right:auto;
 margin-top:11px;
 margin-bottom:21px;
+
 }
 #Header {
 height:150px;
-background-color:#CCC;
+background-color:#ffffff;
 }
 #Menu {
 height:60px;
 background-color:#666;
+clear:both;
 }
 #SideBar {
 width:250px;
-height:400px;
-background-color:#0C0;
+height:1200px;
+background-color:#CCC;
 float:right;
+text-align:center;
 }
 #MainBody {
 width:750px;
-height:400px;
-background-color:#03C;
+height:1200px;
+background-color:#ffffff;
 float:left;
+text-align: center;
 }
 #Footer {
 height:100px;
-background:#CCC;
+background:darkgreen;
 clear:both;
 }
