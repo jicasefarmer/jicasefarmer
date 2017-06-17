@@ -15,12 +15,12 @@ background-color:#ffffff;
 #Menu {
 height:60px;
 background-color:#666;
-clear:both;
+
 }
 #SideBar {
 width:250px;
 height:1200px;
-background-color:#CCC;
+background-color:#D66225;
 float:right;
 text-align:center;
 }
@@ -33,6 +33,6 @@ text-align: center;
 }
 #Footer {
 height:100px;
-background:darkgreen;
+background:#476b6b;
 clear:both;
 }
