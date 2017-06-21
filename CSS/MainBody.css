@@ -10,7 +10,8 @@ margin-bottom:21px;
 }
 #Header {
 height:150px;
-background-color:#ffffff;
+background-color:#666;
+
 }
 #Menu {
 height:60px;
@@ -23,9 +24,11 @@ height:1200px;
 background-color:#D66225;
 float:right;
 text-align:center;
+
 }
 #MainBody {
 width:750px;
+
 height:1200px;
 background-color:#ffffff;
 float:left;
